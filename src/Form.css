@@ -1,0 +1,26 @@
+.paper{
+    width: 20%;
+    margin: 5% auto;
+    padding: 3rem;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign{
+color: rgb(44, 96, 192);
+}
+
+.form{
+ padding-bottom: 2rem;
+}
+
+.MuiButton-label{
+width: 80%; 
+height: 2.5rem;
+border-radius: 5px;
+   background-color: rgb(72, 46, 238);
+   color: #fff;
+}

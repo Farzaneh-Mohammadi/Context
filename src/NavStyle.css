@@ -1,0 +1,12 @@
+.inp {
+  width: 25rem;
+  background-color: rgba(255, 255, 255, 0.7);
+  margin-left: 75%;
+  border-radius: 10px;
+  padding: 0 10px;
+  border: 2px solid #fff;
+}
+
+.switch-title{
+width: 20rem;
+}
